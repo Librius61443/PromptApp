@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0B69642F-490F-4453-8590-F50B52011208"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A2D2CAC-8B0E-4615-8C86-23DE88E9E4AC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PromptApp/Core/Search/View/SearchBarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BD20A2B-D81A-48BD-A01D-5758107FB8EE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PromptApp/Core/Search/View/SearchBarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "SearchBarView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "6BD20A2B-D81A-48BD-A01D-5758107FB8EE - 2aa1ada5c876adb7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of PromptApp.SearchBarView.viewmodel : PromptApp.SearchViewModel"
+                  moduleName = "PromptApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/librius/Desktop/IOS_App/PromptApp/PromptApp/Core/Search/View/SearchBarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "6BD20A2B-D81A-48BD-A01D-5758107FB8EE - 56ef3d87399f4c59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PromptApp.SearchBarView.viewmodel.getter : PromptApp.SearchViewModel"
+                  moduleName = "PromptApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/librius/Desktop/IOS_App/PromptApp/PromptApp/Core/Search/View/SearchBarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "6BD20A2B-D81A-48BD-A01D-5758107FB8EE - d84f3efd96ffc081"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PromptApp.SearchBarView.$viewmodel.getter : SwiftUI.ObservedObject&lt;PromptApp.SearchViewModel&gt;.Wrapper"
+                  moduleName = "PromptApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/librius/Desktop/IOS_App/PromptApp/PromptApp/Core/Search/View/SearchBarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "6BD20A2B-D81A-48BD-A01D-5758107FB8EE - 33519bd46efd065f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of PromptApp.SearchBarView.init(viewmodel: @autoclosure () -&gt; PromptApp.SearchViewModel) -&gt; PromptApp.SearchBarView"
+                  moduleName = "PromptApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/librius/Desktop/IOS_App/PromptApp/PromptApp/Core/Search/View/SearchBarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
